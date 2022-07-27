@@ -1,9 +1,0 @@
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/advice/Advice.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/enums/Authorities.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/models/UserAutorities.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/services/AuthorizationService.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/exceptions/InvalidCredentials.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/AuthorizationExHandlersApplication.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/controllers/AuthorizationController.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/repositories/UserRepository.java
-/Users/kalash/Development/Java/spring_boot/nginx/src/main/java/authorization/exceptions/UnauthorizedUser.java
